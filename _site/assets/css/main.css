@@ -14,7 +14,7 @@ nav > ul { list-style: none; margin: 0; padding: 0; }
 
 .large { font-size: 1.5rem; }
 
-#top-bar { display: flex; flex-direction: row; background-color: #537148; color: #eee; background-image: linear-gradient(to right, #537148, #739c64); }
+#top-bar { display: flex; flex-direction: row; background-color: #537148; color: #eee; background-image: linear-gradient(to right, #537148, #739c64); padding-inline: 1em; padding-block: .5em; }
 
 #top-bar-title { font-size: 1.25rem; margin: 0; font-weight: normal; }
 
@@ -30,7 +30,7 @@ nav > ul { list-style: none; margin: 0; padding: 0; }
 
 #top-nav ul > li > a { display: block; padding-inline: 1em; padding-block: .5em; }
 
-#slogan { font-size: 1.5em; font-weight: 300; padding: 1em; padding-block-start: 30%; background-image: url("/assets/img/night-earth.jpg"); background-position: center start; background-size: cover; text-align: center; color: #eee; text-shadow: #eee 0 0 0.25em; }
+#slogan { font-size: 1.25em; font-weight: 300; padding: 1em; padding-block-start: 30%; background-image: url("/assets/img/night-earth.jpg"); background-position: center start; background-size: cover; text-align: center; color: #eee; text-shadow: #eee 0 0 0.25em; }
 
 #main-footer { padding: 1rem; font-size: .8rem; background-color: #537148; background-image: linear-gradient(to right, #537148, #739c64); color: #eee; }
 
