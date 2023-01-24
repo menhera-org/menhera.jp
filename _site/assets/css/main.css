@@ -32,6 +32,8 @@ nav > ul { list-style: none; margin: 0; padding: 0; }
 
 #slogan { font-size: 1.25em; font-weight: 300; padding: 1em; padding-block-start: 30%; background-image: url("/assets/img/night-earth.jpg"); background-position: center start; background-size: cover; text-align: center; color: #eee; text-shadow: #eee 0 0 0.25em; }
 
+#twitter-timeline { border: none; margin: 0; inline-size: 100%; block-size: 64rem; }
+
 #main-footer { padding: 1rem; font-size: .8rem; background-color: #537148; background-image: linear-gradient(to right, #537148, #739c64); color: #eee; }
 
 #main-footer-nav { display: flex; flex-direction: row; align-items: start; justify-content: space-around; max-inline-size: 40rem; margin-inline: auto; }

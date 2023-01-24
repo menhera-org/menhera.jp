@@ -105,6 +105,13 @@ nav > ul {
     text-shadow: $accent-text-color 0 0 .25em;
 }
 
+#twitter-timeline {
+    border: none;
+    margin: 0;
+    inline-size: 100%;
+    block-size: 64rem;
+}
+
 #main-footer {
     padding: 1rem;
     font-size: .8rem;
