@@ -1,0 +1,9 @@
+# -*- tab-width: 2; indent-tabs-mode: nil -*-
+
+url: "https://menhera.jp" # the base hostname & protocol for your site, e.g. http://example.com
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title: "生活情報基盤研究機構" # the name of your site, e.g. ACME Corp.
+
+lang: "ja"

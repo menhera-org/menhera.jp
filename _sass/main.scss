@@ -1,0 +1,132 @@
+
+// Colors
+$brand-color: #5eaf30;
+$text-color: #333;
+$background-color: #fff;
+$accent-color: #537148;
+$accent-light-color: #739c64;
+$accent-text-color: #eee;
+
+:root {
+    font-family: system-ui, sans-serif;
+}
+
+article > section {
+    max-inline-size: 40rem;
+    padding-inline: 1rem;
+    margin-inline: auto;
+}
+
+blockquote {
+    margin: 0;
+    margin-block: 1rem;
+    margin-inline-start: 10%;
+    padding: 1rem;
+    box-shadow: 0 0 .5rem #ccc;
+    text-align: end;
+    color: $text-color;
+    background-color: #eee;
+}
+
+nav > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.large {
+    font-size: 1.5rem;
+}
+
+#top-bar {
+    display: flex;
+    flex-direction: row;
+    // box-shadow: 0 0 .5rem #888;
+    background-color: $accent-color;
+    color: $accent-text-color;
+    background-image: linear-gradient(to right, $accent-color, $accent-light-color);
+}
+
+#top-bar-title {
+    font-size: 1.25rem;
+    margin: 0;
+    font-weight: normal;
+}
+
+#logotype {
+    max-inline-size: 100vi;
+    inline-size: 20rem;
+}
+
+#logotype-wrapper {
+    flex-grow: 1;
+}
+
+#top-nav {
+    border-block-end: .5em solid $brand-color;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: .5em;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#top-nav > ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#top-nav ul > li {
+    border-inline-start: solid 2px $brand-color;
+    margin-inline: 2px;
+    margin-block: .5em;
+}
+
+#top-nav ul > li > a {
+    display: block;
+    padding-inline: 1em;
+    padding-block: .5em;
+}
+
+#slogan {
+    font-size: 1.5em;
+    font-weight: 300;
+    padding: 1em;
+    padding-block-start: 30%;
+    background-image: url("/assets/img/night-earth.jpg");
+    background-position: center start;
+    background-size: cover;
+    text-align: center;
+    color: $accent-text-color;
+    text-shadow: $accent-text-color 0 0 .25em;
+}
+
+#main-footer {
+    padding: 1rem;
+    font-size: .8rem;
+    background-color: $accent-color;
+    background-image: linear-gradient(to right, $accent-color, $accent-light-color);
+    color: $accent-text-color;
+}
+
+#main-footer-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-around;
+    max-inline-size: 40rem;
+    margin-inline: auto;
+}
+
+#main-footer-nav > nav {
+    max-inline-size: 20rem;
+    margin: 1rem;
+}
+
+#main-footer-nav > nav > ul {
+    list-style: none;
+    padding-inline-start: 0;
+    margin: 0;
+}
