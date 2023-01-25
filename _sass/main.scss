@@ -116,6 +116,24 @@ a {
     block-size: 64rem;
 }
 
+.banner-block {
+    font-weight: 700;
+    color: transparent;
+    background-image: linear-gradient(to bottom, #496a25, #2a6974);
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-align: center;
+    font-size: 5vw;
+}
+
+.menhera-green {
+    background-color: $brand-color;
+    color: $accent-text-color;
+    padding: 1rem;
+    font-size: 150%;
+    border-radius: .5rem;
+}
+
 #main-footer {
     padding: 1rem;
     font-size: .8rem;
