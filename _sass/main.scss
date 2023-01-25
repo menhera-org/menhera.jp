@@ -34,6 +34,10 @@ nav > ul {
     padding: 0;
 }
 
+a {
+    color: $accent-light-color;
+}
+
 .large {
     font-size: 1.5rem;
 }
@@ -118,6 +122,10 @@ nav > ul {
     background-color: $accent-color;
     background-image: linear-gradient(to right, $accent-color, $accent-light-color);
     color: $accent-text-color;
+}
+
+#main-footer a {
+    color: $accent-text-color !important;
 }
 
 #main-footer-nav {
