@@ -38,6 +38,11 @@ a {
     color: $accent-light-color;
 }
 
+h2 {
+    padding-inline-start: .5em;
+    border-inline-start: solid .25rem $brand-color;
+}
+
 .large {
     font-size: 1.5rem;
 }
