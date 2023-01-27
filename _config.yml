@@ -7,3 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "生活情報基盤研究機構" # the name of your site, e.g. ACME Corp.
 
 lang: "ja"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
