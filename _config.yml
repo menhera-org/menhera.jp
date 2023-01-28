@@ -8,9 +8,23 @@ title: "生活情報基盤研究機構" # the name of your site, e.g. ACME Corp.
 
 lang: "ja"
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+paginate: 5
+paginate_path: posts/page:num/
+
+plugins:
+  - jekyll-paginate
+
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
