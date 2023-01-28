@@ -9,7 +9,7 @@ paginate: true
     <article>
         <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
         <p class="author">
-        <span class="date">{{ post.date }}</span>
+        <span class="date">{{ post.date | split: " " | first }}</span>
         </p>
     </article>
 {% endfor %}
