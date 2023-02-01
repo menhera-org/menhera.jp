@@ -1,6 +1,7 @@
 ---
 csp: "default-src https://*.menherausercontent.org 'self'; form-target 'self'; upgrade-insecure-requests"
 ---
+{% include relBase.html %}
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 <head>
@@ -8,7 +9,7 @@ csp: "default-src https://*.menherausercontent.org 'self'; form-target 'self'; u
 <meta http-equiv="Content-Security-Policy" content="{{ layout.csp }}">
 <meta name="viewport" content="initial-scale=1,width=device-width">
 <title>{{ page.title }} | {{ site.title }}</title>
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="{{ relBase }}/assets/css/main.css">
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -22,12 +23,12 @@ csp: "default-src https://*.menherausercontent.org 'self'; form-target 'self'; u
 <h1 id="top-bar-title">{{ page.title }}</h1>
 </div>
 <nav id="top-nav">
-<div id="logotype-wrapper"><div id="logotype"><a href="/"><img src="/assets/img/logotype-new.svg"/></a></div></div>
+<div id="logotype-wrapper"><div id="logotype"><a href="{{ relBase }}/"><img src="{{ relBase }}/assets/img/logotype-new.svg"/></a></div></div>
 <ul>
-<li><a href="/">トップ</a></li>
-<li><a href="/about.html">組織案内</a></li>
-<li><a href="/posts/">最新情報</a></li>
-<li><a href="/notice/">電子公告</a></li>
+<li><a href="{{ relBase }}/">トップ</a></li>
+<li><a href="{{ relBase }}/about.html">組織案内</a></li>
+<li><a href="{{ relBase }}/posts/">最新情報</a></li>
+<li><a href="{{ relBase }}/notice/">電子公告</a></li>
 <li><a href="https://www.menhera.org/">プロジェクトサイト</a></li>
 </ul>
 </nav>
@@ -39,7 +40,7 @@ csp: "default-src https://*.menherausercontent.org 'self'; form-target 'self'; u
 <nav>
 <h4>サイト</h4>
 <ul>
-<li><a href="/">トップ</a></li>
+<li><a href="{{ relBase }}/">トップ</a></li>
 <li><a href="https://www.menhera.org/">Menhera.org プロジェクトサイト</a></li>
 </ul>
 </nav>
