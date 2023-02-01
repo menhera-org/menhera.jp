@@ -47,6 +47,20 @@ h2 {
     font-size: 1.5rem;
 }
 
+.clear {
+    clear: both;
+}
+
+.profile-photo-float {
+    float: inline-end;
+    margin-inline-start: 1rem;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    border-radius: 50%;
+    inline-size: 30%;
+    max-inline-size: 10rem;
+}
+
 #top-bar {
     display: flex;
     flex-direction: row;
