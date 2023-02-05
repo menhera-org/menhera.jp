@@ -1,5 +1,5 @@
 ---
-csp: "default-src https://*.menherausercontent.org 'self'; form-target 'self'; upgrade-insecure-requests"
+csp: "default-src https://*.menherausercontent.org 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; form-target 'self'; upgrade-insecure-requests"
 ---
 {% include relBase.html %}
 <!DOCTYPE html>
@@ -10,6 +10,9 @@ csp: "default-src https://*.menherausercontent.org 'self'; form-target 'self'; u
 <meta name="viewport" content="initial-scale=1,width=device-width">
 <title>{{ page.title }} | {{ site.title }}</title>
 <link rel="stylesheet" href="{{ relBase }}/assets/css/main.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap" rel="stylesheet"> 
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
