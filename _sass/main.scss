@@ -5,7 +5,7 @@ $text-color: #333;
 $background-color: #fff;
 $accent-color: #537148;
 $accent-light-color: #739c64;
-$accent-text-color: #eee;
+$accent-text-color: #f2f2f2;
 
 :root {
     font-family: system-ui, sans-serif;
@@ -126,7 +126,7 @@ h2 {
     background-size: cover;
     text-align: center;
     color: $accent-text-color;
-    text-shadow: $text-color -1px -1px 0, $text-color -1px 1px 0, $text-color 1px -1px 0, $text-color 1px 1px 0, $text-color 0 1px 0, $text-color -1px 0 0, $text-color 1px 0 0, $text-color 0 -1px 0, $text-color 0 0 .25em, $text-color 0 0 .25em, $text-color 0 0 .25em, $text-color 0 0 .25em;
+    text-shadow: #000 -1px -1px 0, #000 -1px 1px 0, #000 1px -1px 0, #000 1px 1px 0, #000 0 1px 0, #000 -1px 0 0, #000 1px 0 0, #000 0 -1px 0, #000 0 0 .25em, #000 0 0 .25em, #000 0 0 .25em, #000 0 0 .25em;
 }
 
 #twitter-timeline {
