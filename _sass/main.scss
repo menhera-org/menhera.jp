@@ -192,3 +192,19 @@ h2 {
     text-align: end;
     font-size: .8rem;
 }
+
+#footer-bottom {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+}
+
+#footer-bottom-start {
+    flex: 1;
+    min-inline-size: 0;
+}
+
+#sdgs-logo {
+    inline-size: 25%;
+    max-inline-size: 8rem;
+}
