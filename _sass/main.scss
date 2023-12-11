@@ -17,6 +17,10 @@ article > section {
     margin-inline: auto;
 }
 
+article > section img {
+    max-inline-size: 100%;
+}
+
 blockquote {
     margin: 0;
     margin-block: 1rem;
