@@ -88,6 +88,11 @@ h2 {
     inline-size: 20rem;
 }
 
+#logotype a, #logotype img {
+    display: block;
+    inline-size: 100%;
+}
+
 #logotype-wrapper {
     flex-grow: 1;
 }
