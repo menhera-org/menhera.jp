@@ -9,6 +9,12 @@ description: "一般社団法人生活情報基盤研究機構（Menhera.org）�
 
 このページの恒久URL： https://mnhr.org/notice
 
+### 2024年度事業計画 (予算)
+
+2024年4月22日掲載
+
+- [2024年事業計画](/assets/pdf/2024_statement_activity.pdf)
+
 ### 2023年度
 
 2024年2月28日掲載
