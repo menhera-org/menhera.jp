@@ -23,9 +23,7 @@ csp: "default-src https://*.menherausercontent.org 'self'; style-src 'self' http
 <meta name="referrer" content="no-referrer">
 </head>
 <body>
-<div id="top-bar">
-<h1 id="top-bar-title">{{ page.title }}</h1>
-</div>
+<div id="top">
 <nav id="top-nav">
 <div id="logotype-wrapper">
     <div id="logotype">
@@ -42,11 +40,18 @@ csp: "default-src https://*.menherausercontent.org 'self'; style-src 'self' http
 <li><a href="https://www.menhera.org/">プロジェクトサイト</a></li>
 </ul>
 </nav>
-<div id="brand-string">人と人をつなぐ、生活をつなげる、学術の力になる。</div>
+{% if page.title %}
+<h1 id="top-bar-title">{{ page.title }}</h1>
+{% endif %}
+{% if page.banner %}
+<div id="slogan">{{ page.banner }}</div>
+{% endif %}
+</div>
 <article id="main-article" lang="{{ page.lang | default: site.lang }}">
 {{ content }}
 </article>
 <footer id="main-footer">
+<div id="brand-string">人と人をつなぐ、生活をつなげる、学術の力になる。</div>
 <div id="main-footer-nav">
 <nav>
 <h4>サイト</h4>

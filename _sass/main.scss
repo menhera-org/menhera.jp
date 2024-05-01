@@ -68,6 +68,11 @@ h2 {
     max-inline-size: 10rem;
 }
 
+#top {
+    background-color: #e1f0dd;
+    background-image: url("../../assets/img/bg-1.svg");
+}
+
 #top-bar {
     display: flex;
     flex-direction: row;
@@ -80,9 +85,14 @@ h2 {
 }
 
 #top-bar-title {
-    font-size: 1.25rem;
-    margin: 0;
+    font-size: 1.5rem;
+    margin: 1rem;
+    padding: 0;
     font-weight: normal;
+    color: $accent-text-color;
+    background-color: #5eaf3080;
+    inline-size: max-content;
+    max-inline-size: 100%;
 }
 
 #logotype {
@@ -105,6 +115,12 @@ h2 {
     column-gap: .5em;
     flex-direction: row;
     justify-content: flex-end;
+    background-color: #ffffff11;
+    -webkit-backdrop-filter: blur(1rem);
+    backdrop-filter: blur(1rem);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
 }
 
 #top-nav > ul {
@@ -141,11 +157,9 @@ h2 {
     font-weight: 300;
     padding: 1em;
     padding-block-start: 30%;
-    background-color: #000;
-    background-image: url("../../assets/img/bg-1.svg");
     background-position: center start;
     background-size: cover;
-    text-align: center;
+    text-align: end;
     color: $accent-text-color;
     font-weight: bold;
     text-shadow: #000 -1px -1px 0, #000 -1px 1px 0, #000 1px -1px 0, #000 1px 1px 0, #000 0 1px 0, #000 -1px 0 0, #000 1px 0 0, #000 0 -1px 0, #000 0 0 .25em, #000 0 0 .25em, #000 0 0 .25em, #000 0 0 .25em;
@@ -179,13 +193,8 @@ h2 {
 #main-footer {
     padding: 1rem;
     font-size: .8rem;
-    background-color: $accent-color;
-    background-image: linear-gradient(to right, $accent-color, $accent-light-color);
-    color: $accent-text-color;
-}
-
-#main-footer a {
-    color: $accent-text-color !important;
+    background-color: #e1f0dd;
+    color: $text-color;
 }
 
 #main-footer-nav {
