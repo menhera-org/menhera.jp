@@ -72,6 +72,7 @@ h2 {
     background-color: #e1f0dd;
     background-image: url("../../assets/img/bg-1.svg");
     background-size: cover;
+    padding: 1rem;
 }
 
 #top-bar {
@@ -155,13 +156,17 @@ h2 {
     font-size: 1.25em;
     font-weight: 300;
     padding: 1em;
-    padding-block-start: 30%;
+    padding-block-start: 15%;
+    padding-block-end: 15%;
     background-position: center start;
     background-size: cover;
-    text-align: end;
-    color: $accent-text-color;
+    color: $text-color;
+    background-color: #ffffff80;
     font-weight: bold;
-    text-shadow: #000 -1px -1px 0, #000 -1px 1px 0, #000 1px -1px 0, #000 1px 1px 0, #000 0 1px 0, #000 -1px 0 0, #000 1px 0 0, #000 0 -1px 0, #000 0 0 .25em, #000 0 0 .25em, #000 0 0 .25em, #000 0 0 .25em;
+    box-sizing: border-box;
+    inline-size: 60%;
+    max-inline-size: 32rem;
+    margin-inline-start: auto;
 }
 
 #twitter-timeline {
