@@ -68,9 +68,10 @@ h2 {
     max-inline-size: 10rem;
 }
 
-#top {
+#page-header {
     background-color: #e1f0dd;
     background-image: url("../../assets/img/bg-1.svg");
+    background-size: cover;
 }
 
 #top-bar {
@@ -86,11 +87,11 @@ h2 {
 
 #top-bar-title {
     font-size: 1.5rem;
-    margin: 1rem;
+    margin: 2rem 1rem;
     padding: 0;
-    font-weight: normal;
+    font-weight: bold;
     color: $accent-text-color;
-    background-color: #5eaf3080;
+    background-color: #5eaf30cc;
     inline-size: max-content;
     max-inline-size: 100%;
 }
@@ -115,9 +116,7 @@ h2 {
     column-gap: .5em;
     flex-direction: row;
     justify-content: flex-end;
-    background-color: #ffffff11;
-    -webkit-backdrop-filter: blur(1rem);
-    backdrop-filter: blur(1rem);
+    background-color: #e1f0dd;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
