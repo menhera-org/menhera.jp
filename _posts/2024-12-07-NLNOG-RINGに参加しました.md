@@ -1,6 +1,6 @@
 **NLNOG RING に参加しました！**
 
-https://ring.nlnog.net/post/menhera-joined-the-ring/
+[ring.nlnog.net/post/menhera-joined-the-ring/](https://ring.nlnog.net/post/menhera-joined-the-ring/)
 
 NLNOG RING は，世界中の独立したネットワーク運用組織同士が，問題解決などのためにシェルアクセスなどを交換しあう枠組みです。 Menhera.org もこの趣旨に賛同し，サーバを利用者に提供しています。
 
