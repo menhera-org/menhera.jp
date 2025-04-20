@@ -1,0 +1,78 @@
+
+a {
+    color: #5eaf30;
+}
+
+img {
+    max-inline-size: 100%;
+}
+
+blockquote {
+    display: block;
+    margin-block: 1em;
+    padding-inline: 2rem;
+    margin-inline: 0;
+    border-inline-start: solid .25rem #5eaf3080;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+    margin: 0;
+}
+
+.large {
+    font-size: 1.5rem;
+}
+
+.clear {
+    clear: both;
+}
+
+.profile-photo-float {
+    float: inline-end;
+    margin-inline-start: 1rem;
+    margin-block-start: .5rem;
+    margin-block-end: .5rem;
+    border-radius: 50%;
+    inline-size: 30%;
+    max-inline-size: 10rem;
+}
+
+#app {
+    display: grid;
+    grid-template-columns: [page-start] 1fr [content-start icon-start] 4rem [icon-end menu-start] minmax(auto, 40rem) [menu-end content-end] 1fr [page-end];
+    grid-template-rows: [page-start branding-start] 5rem [branding-end top-bar-start] 3rem [top-bar-end content-start] 1fr [content-end page-footer-branding-start] auto [page-footer-branding-end page-footer-start] auto [page-footer-end page-end];
+}
+
+#content {
+    grid-column: content-start / content-end;
+    grid-row: content-start / content-end;
+    min-inline-size: 0;
+    inline-size: 100%;
+    padding-inline: .5rem;
+    box-sizing: border-box;
+}
+
+.banner-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 2rem;
+    justify-content: center;
+}
+
+.banner-button {
+    margin-block: .5rem;
+    display: block;
+    min-inline-size: 0;
+    inline-size: auto;
+    max-inline-size: max-content;
+    text-decoration: none;
+    font-weight: bold;
+    padding-inline: 2rem;
+    padding-block: 1rem;
+    font-size: 150%;
+    border: solid 0.125rem #5eaf30;
+    background-color: #fff;
+    color: #5eaf30;
+}

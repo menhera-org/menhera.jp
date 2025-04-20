@@ -1,4 +1,3 @@
-# menhera.jp
-
-生活情報基盤研究機構の日本語サイトです。
+# menhera.or.jp
+Corporate website for Menhera.org (Human-life Information Platforms Institute)
 
