@@ -7,6 +7,9 @@ export default function Home() {
         <Head>
             <title>法人トップ | 生活情報基盤研究機構 (Menhera.org)</title>
         </Head>
+        <aside>
+            <p><Link href="/corp/releases/20250502-trademark/">登録商標の出願について</Link></p>
+        </aside>
         <h2>IT で自由をつくろう。</h2>
         <h3>Making freedoms with IT</h3>
         <p>私たちは，情報技術や情報基盤の研究・開発・利用を推進することによって，ひとりひとりの個人にさらなる自由や力をもたらし，これによって人々の日常生活を豊かにしたり，学術や文化をサポートしたりすることを目指しています。</p>

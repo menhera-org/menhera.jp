@@ -13,6 +13,12 @@ export default function ReleasesIndex() {
 ## 2025年度
 
 ----
+### 登録商標の出願について
+**2025-05-02**
+
+[こちらをご覧ください](/corp/releases/20250502-trademark/)。
+
+----
 ### 理事の処分について
 **2025-03-27**
 
