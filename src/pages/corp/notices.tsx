@@ -16,6 +16,12 @@ export default function Notices() {
 
 ----
 
+## 2025年度事業計画 (予算)
+
+2025年5月27日掲載
+
+- [2025年度事業計画](/assets/pdf/2025_statement_activity.pdf)
+
 ## 2024年度
 
 2025年4月18日掲載
