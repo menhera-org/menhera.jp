@@ -76,3 +76,9 @@ body {
     background-color: #fff;
     color: #5eaf30;
 }
+
+.eyecatch {
+    display: block;
+    inline-size: 100%;
+    margin-block: .5rem;
+}

@@ -9,6 +9,7 @@ export default function CorpIndex() {
         </Head>
         <h1>役員紹介・メッセージ</h1>
         <h2>代表理事からのごあいさつ</h2>
+        <Image className="eyecatch" src="/assets/img/vericava-2025.jpg" alt="vericava"/>
         <blockquote>
             <p>
                 The information platforms behind the Internet form our daily communication, which in turn forms our societies.
