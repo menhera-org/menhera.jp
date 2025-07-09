@@ -8,7 +8,7 @@ export default function Home() {
             <title>法人トップ | 生活情報基盤研究機構 (Menhera.org)</title>
         </Head>
         <aside>
-            <p><Link href="/corp/releases/20250502-trademark/">登録商標の出願について</Link></p>
+            <p><Link href="/assets/pdf/20250709-trademark-registered.pdf">Menhera®が商標登録されました</Link></p>
         </aside>
         <h2>IT で自由をつくろう。</h2>
         <h3>Making freedoms with IT</h3>

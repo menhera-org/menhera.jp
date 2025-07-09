@@ -13,6 +13,12 @@ export default function ReleasesIndex() {
 ## 2025年度
 
 ----
+### Menhera®が商標登録されました
+**2025-07-09**
+
+[報道資料 (PDF)](/assets/pdf/20250709-trademark-registered.pdf)
+
+----
 ### 登録商標の出願について
 **2025-05-02**
 
