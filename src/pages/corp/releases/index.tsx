@@ -13,6 +13,14 @@ export default function ReleasesIndex() {
 ## 2025年度
 
 ----
+### JANOG56 Bof
+**2025-07-31**
+
+JANOG56 野良BoF で発表を行いました
+
+[Slides (PDF)](/assets/pdf/j56-bof-menhera-as63806.pdf)
+
+----
 ### Menhera®が商標登録されました
 **2025-07-09**
 
