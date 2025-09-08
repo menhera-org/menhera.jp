@@ -47,7 +47,7 @@ export default function CorpIndex() {
         <h3>業務執行理事</h3>
         <Image className="profile-photo-float" src="/assets/img/viterum-outline.svg" alt="viterum"/>
         <h4>秋葉　沙都季 （ゐてるま / viterum）</h4>
-        <p>共同設立者。大学生。分析哲学や低レイヤプログラミングなどに興味がある。Honorable Mention at JOL &apos;19.</p>
+        <p>共同設立者。ITエンジニア。分析哲学や低レイヤプログラミングなどに興味がある。Honorable Mention at JOL &apos;19.</p>
         <ul>
             <li><a href="https://github.com/anosatsuk124">GitHub</a></li>
             <li><a href="https://twitter.com/intent/user?user_id=1163505248649928704">Twitter @viterum_24</a></li>
@@ -57,6 +57,14 @@ export default function CorpIndex() {
             <p>参照透過的で副作用のない人生。周囲の人生に影響を受けず(与えず)、出生という引数に死という式評価のみをもたらす人生。</p>
             <p>——ゐてるま (2021) on Twitter</p>
         </blockquote>
+        <Image className="profile-photo-float" src="/assets/img/nekohaka.svg" alt="nekohaka"/>
+        <h4>大橋　モモ （ねこはか）</h4>
+        <p>東京出身。大学で哲学を専攻後、SEとして働いたのち、フリーランスのエンジニアとして働いている。資格は競技かるた初段。元登山部/自転車部。</p>
+        <br className="clear"/>
+        <blockquote>
+            <p>すべての知性に血が通いますように</p>
+        </blockquote>
+        <h3>理事</h3>
         <Image className="profile-photo-float" src="/assets/img/sochi.gif" alt="koridentetsu"/>
         <h4>篠永　康平 (想像地図の人 / TANUKI)</h4>
         <p>2003年から架空の地図を描く｢想像地図｣という活動を継続し、22年かけて1つの架空の国の全域の地図を完成させた。他に架空言語や駅名替え歌などの創作活動も行う。</p>
@@ -68,17 +76,6 @@ export default function CorpIndex() {
         <br className="clear"/>
         <blockquote>
             <p>「自分の思う世界観を文章で表現するのが小説家なら、それを地図という形で表現するのが想像地図の人である」</p>
-        </blockquote>
-        <Image className="profile-photo-float" src="/assets/img/alex.jpg" alt="alex"/>
-        <h4>早瀨　廉アレクサンドル</h4>
-        <p>共同設立者。リクルートグループ企業にて広告制作・校閲・翻訳業務に従事し退職。フリーランス翻訳家、またボランティアで英語・フランス語・音楽理論の講師を務める。世界料理研究、音楽、言語習得、文字デザイン、うさぎさんと戯れるなど幅広い趣味を持つ。</p>
-        <br className="clear"/>
-        <blockquote>
-            <p>効率よりも本質を。</p>
-            <p>——早瀨　廉アレクサンドル (2020)</p>
-            <br/>
-            <p>饒舌よりも沈黙へ、沈黙から言葉を。</p>
-            <p>——早瀨　廉アレクサンドル (2023)</p>
         </blockquote>
         <h3>監事</h3>
         <Image className="profile-photo-float" src="/assets/img/fervojisto-2.jpg" alt="fervojisto"/>
