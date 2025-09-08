@@ -57,7 +57,7 @@ export default function CorpIndex() {
             <p>参照透過的で副作用のない人生。周囲の人生に影響を受けず(与えず)、出生という引数に死という式評価のみをもたらす人生。</p>
             <p>——ゐてるま (2021) on Twitter</p>
         </blockquote>
-        <Image className="profile-photo-float" src="/assets/img/nekohaka.svg" alt="nekohaka"/>
+        <Image className="profile-photo-float" src="/assets/img/nekohaka.jpg" alt="nekohaka"/>
         <h4>大橋　モモ （ねこはか）</h4>
         <p>東京出身。大学で哲学を専攻後、SEとして働いたのち、フリーランスのエンジニアとして働いている。資格は競技かるた初段。元登山部/自転車部。</p>
         <br className="clear"/>
