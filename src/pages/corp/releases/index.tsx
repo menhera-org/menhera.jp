@@ -13,6 +13,12 @@ export default function ReleasesIndex() {
 ## 2025年度
 
 ----
+### 想像地図の著作権について
+**2025-09-11**
+
+[PDF](/assets/pdf/20250911-release-copyright.pdf)
+
+----
 ### 臨時総会を招集しました
 **2025-08-24**
 
