@@ -20,7 +20,7 @@ export default function ActivitiesIndex() {
             <li>プライバシーの擁護のためのFirefoxブラウザ拡張機能：<Link href="https://addons.mozilla.org/firefox/addon/container-tab-groups/">Container Tab Groups</Link></li>
             <li>Tor リレーの運用</li>
             <li>非営利の教育研究用ネットワーク <Link href="https://www.nc.menhera.org/">AS63806</Link></li>
-            <li>想像地図研究所の事業：文化的な創作活動を支援するウィキ <Link href="https://tanuki.iml.menhera.org/">Tanukipedia</Link></li>
+            <li>応用ウィキ研究所の事業 (Ignite, Merge, Launch (IML) Initiatives)：文化的な創作活動を支援するウィキ <Link href="https://tanuki.iml.menhera.org/">Tanukipedia</Link></li>
             <li>応用ウィキ研究所の事業：学術や文化などの振興のためのウィキファーム (ウィキをつくれるサイト) <Link href="https://wikiapplied.org/">WikiApplied</Link> (構築中)</li>
         </ul>
         <div className="banner-container">

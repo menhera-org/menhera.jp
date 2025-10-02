@@ -24,8 +24,8 @@ export default function CorpIndex() {
         </p>
         <h2>法人の紹介と沿革</h2>
         <p>Tanukipedia に<a href="https://tanuki.iml.menhera.org/wiki/%E7%94%9F%E6%B4%BB%E6%83%85%E5%A0%B1%E5%9F%BA%E7%9B%A4%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B">本機構の歴史と紹介の記事</a>があります。</p>
-        <h2>組織図 (2024年10月更新)</h2>
-        <Image id="org-structure" src="/assets/img/202410-org-structure.png" style={{width: "100%"}} alt="組織図" />
+        <h2>組織図 (2025年10月更新)</h2>
+        <Image id="org-structure" src="/assets/img/202510-org-structure.png" style={{width: "100%"}} alt="組織図" />
         <h2>法人データ</h2>
         <dl>
         <dt>名称 (商号)</dt>
@@ -80,6 +80,7 @@ export default function CorpIndex() {
         <dd><a href="https://jprs.co.jp/">株式会社日本レジストリサービス</a> (.JP ドメイン名の申請、割り当て)</dd>
         <dd><a href="https://www.homenoc.ad.jp/">一般社団法人Ｈｏｍｅ　ＮＯＣ　Ｏｐｅｒａｔｏｒｓ’　Ｇｒｏｕｐ</a> (上流ネットワークの提供)</dd>
         <dd><a href="https://www.telhi.co.jp/">輝日株式会社</a> (上流ネットワークの提供)</dd>
+        <dd><a href="https://www.ntt-east.co.jp/">NTT東日本株式会社</a> (アクセス回線の提供)</dd>
         <dd>その他国内および海外のクラウドサービス事業者</dd>
         <dt>会計基準</dt>
         <dd>公益法人会計基準 (当法人では，任意でキャッシュ・フロー計算書および財産目録も作成しています)</dd>
@@ -128,7 +129,7 @@ export default function CorpIndex() {
         <p>
             本機構は，非営利徹底型の一般社団法人であるため，収益事業を行うことができませんが，構成員から会費を収集するほか，みなさまに寄附をお願いしております。
             外部からの寄附や補助金などの収入が安定するまでは，役員が必要経費を寄附することで運営を行っております。
-            本機構の必要経費は多くないため，2023年設立時現在，役員が拠出可能な範囲で事業を行っており，無借金経営により安定した運営を実現しております。
+            本機構の必要経費は多くないため，2025年現在，役員が拠出可能な範囲で事業を行っており，無借金経営により安定した運営を実現しております。
             さらなる事業を行うためにはみなさまからのご支援が必要です。寄附は以下の口座で受け入れております。
         </p>
         <div className="banner-container">
