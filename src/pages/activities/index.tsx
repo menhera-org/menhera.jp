@@ -8,6 +8,7 @@ export default function ActivitiesIndex() {
             <title>活動 | 生活情報基盤研究機構 (Menhera.org)</title>
         </Head>
         <h1>活動</h1>
+        <p>情報通信技術を利活用した、営利ベースでは難しい、社会に貢献するような事業を目指して行っています。</p>
         <h2>活動領域</h2>
         <ul>
             <li>プライバシーの擁護のための技術開発・運用</li>
