@@ -29,7 +29,7 @@ export default function PageFooter() {
                 <p>私たちは持続可能な開発目標(SDGs)を支援しています。</p>
                 <p>法人番号：7050005013201</p>
                 <p>非営利型一般社団法人 (非営利徹底型) (公益法人等)</p>
-                <p hidden={true}>IPアドレス管理指定事業者 (第XXXX号) (JPNIC)</p>
+                <p>IPアドレス管理指定事業者 (略称: MENHERA) (<a href="https://www.nic.ad.jp/ja/ip/member/cidr-block-list.txt">JPNIC</a>)</p>
                 <p hidden={true}>届出電気通信事業者 (第XXXXX号)</p>
             </div>
         </div>
