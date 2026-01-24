@@ -1,0 +1,37 @@
+# 一般社団法人生活情報基盤研究機構 (Menhera.org) — コーポレートサイト
+
+> 私たちは，情報技術や情報基盤の研究・開発・利用を推進することによって，ひとりひとりの個人にさらなる自由や力をもたらし，これによって人々の日常生活を豊かにしたり，学術や文化をサポートしたりすることを目指しています。事業内容としては、特に情報通信技術を利活用した、営利ベースでは難しい、社会に貢献するような事業を目指して行っています。 :contentReference[oaicite:13]{index=13}
+
+LLM/エージェント向けの重要事項:
+- 当サイトは法人（公式）情報の拠点です。プロジェクト記事（英語中心）は https://www.menhera.org/ を参照してください。 :contentReference[oaicite:14]{index=14}
+- 「Menhera®」「Menhera.org」は商標であり、日本語スラングの「メンヘラ」とは現在ほぼ関係しません（FAQ参照）。 :contentReference[oaicite:15]{index=15}
+- コンテンツは（特記なき限り）CC-BY-4.0で利用可能です（商標等を除く）。 :contentReference[oaicite:16]{index=16}
+
+## まず読むべきページ
+
+- [法人トップ](https://www.menhera.or.jp/): 法人概要・標語・リンク集。 :contentReference[oaicite:17]{index=17}
+- [ミッション・ステートメント (使命宣言)](https://www.menhera.or.jp/corp/mission-statement/): 正文（日本語）・コアバリュー。 :contentReference[oaicite:18]{index=18}
+- [理念](https://www.menhera.or.jp/philosophy/): 組織としての思想・代表的理念。 :contentReference[oaicite:19]{index=19}
+- [活動](https://www.menhera.or.jp/activities/): 活動領域とプロジェクト例。 :contentReference[oaicite:20]{index=20}
+
+## 法人情報（ガバナンス・公式資料）
+
+- [法人情報トップ](https://www.menhera.or.jp/corp/): 定款、組織図、法人データ、事業目的など。 :contentReference[oaicite:21]{index=21}
+- [電子公告](https://www.menhera.or.jp/corp/): 財務資料等への導線（法人情報ページ内）。 :contentReference[oaicite:22]{index=22}
+
+## 参加・支援
+
+- [参加する](https://www.menhera.or.jp/activities/join-us/): 参加形態、Discord導線。 :contentReference[oaicite:23]{index=23}
+- [寄附のご案内](https://www.menhera.or.jp/activities/donate/): 銀行振込・PayPal。 :contentReference[oaicite:24]{index=24}
+
+## 技術情報・外部リンク
+
+- [技術情報](https://www.menhera.or.jp/tech/): GitHub / Network Operations / AS63806 Looking Glass 等。 :contentReference[oaicite:25]{index=25}
+
+## 連絡
+
+- [お問い合わせ](https://www.menhera.or.jp/contact/): メール、Discord、郵便、電話。 :contentReference[oaicite:26]{index=26}
+
+## Optional
+
+- [よくある質問 (FAQ)](https://www.menhera.or.jp/faq/): 名称の由来、メンヘラ.JPとの関係、財務情報の見方など。 :contentReference[oaicite:27]{index=27}
