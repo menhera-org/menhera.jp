@@ -1,6 +1,7 @@
 
 import Link from "next/link";
 import Head from "next/head";
+import Image from "next/image";
 
 export default function Home() {
     return <div>
@@ -10,6 +11,7 @@ export default function Home() {
         <aside>
             <p><Link href="/assets/pdf/20250709-trademark-registered.pdf">Menhera®が商標登録されました</Link></p>
         </aside>
+        <Image className="eyecatch" alt="Integrated in respected individuals" src="/assets/img/288dpi-integrated.png"/>
         <h2>IT で自由をつくろう。</h2>
         <h3>Making freedoms with IT</h3>
         <p>私たちは，情報技術や情報基盤の研究・開発・利用を推進することによって，ひとりひとりの個人にさらなる自由や力をもたらし，これによって人々の日常生活を豊かにしたり，学術や文化をサポートしたりすることを目指しています。</p>
