@@ -42,6 +42,8 @@ export default function CorpIndex() {
         <dd>公益法人等</dd>
         <dt>法人番号</dt>
         <dd>7050005013201</dd>
+        <dt>D-U-N-S® Number</dt>
+        <dd>739529630</dd>
         <dt>代表者</dt>
         <dd>森　祐佳 (代表理事)</dd>
         <dt>設立</dt>
