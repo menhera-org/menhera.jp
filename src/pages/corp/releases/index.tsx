@@ -14,6 +14,18 @@ export default function ReleasesIndex() {
 
 ---
 
+### 第3回定時総会招集のお知らせ
+
+理事会は，日本時間2026年03月21日，21時から Zoom でオンラインにて第3回定時総会(2026年度第1回定時総会)を招集しました。事前投票を含む，電磁的投票を行います。
+
+**資料**
+
+- [settlement](/assets/pdf/2025_settlement.pdf)
+- [report](/assets/pdf/2025_report.pdf)
+- [audit](/assets/pdf/2025_audit.pdf)
+
+---
+
 ### Statement on the Armed Conflict in the Middle East
 #### 中東における武⼒衝突に関する声明
 
