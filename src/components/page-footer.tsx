@@ -23,6 +23,8 @@ export default function PageFooter() {
                     <li><a href="https://github.com/menhera-org">GitHub @menhera-org</a></li>
                     <li><a href="https://qiita.com/organizations/menhera">Qiita</a></li>
                     <li><a href="https://www.youtube.com/channel/UC_i1DqCa3Rfmb3LrEN4mF_w">YouTube</a></li>
+                    <li><a href="https://prtimes.jp/main/html/searchrlp/company_id/177609">PR Times</a></li>
+                    <li><a href="https://zenn.dev/p/menhera">Zenn</a></li>
                 </ul>
                 <p>© {(new Date).getFullYear()} 一般社団法人生活情報基盤研究機構。他に表記が無い限り，コンテンツは <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> ライセンスのもとで利用可能です (「Menhera M」ロゴなど商標を除く)。</p>
                 <p>Menhera®、Menhera.org、「Menhera M」ロゴは一般社団法人生活情報基盤研究機構が商標として使用しております。Menhera®は一般社団法人生活情報基盤研究機構の登録商標です (<a href="https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2025-048650/40/ja">登録第6945732号</a>)。</p>
