@@ -13,6 +13,7 @@ export default function Notices() {
 このページでは，一般社団法人生活情報基盤研究機構の公告を掲載しています。
 
 このページの恒久URL： https://mnhr.org/notice
+
 ----
 
 ## 2025年度
@@ -36,7 +37,7 @@ export default function Notices() {
 | 想像地図の人(中途就任) | 4 | 0 |
 | ねこはか(中途就任) | 1 | 0 |
 | Fervojisto (監事) | 4 | 1 |
-| Yuki-cy(中途就任) | 3 | 1 |
+| Yuki-cy(中途就任) (監事) | 3 | 1 |
 
 ----
 
