@@ -27,7 +27,7 @@ Tanukipedia に<a href="https://tanuki.iml.menhera.org/wiki/%E7%94%9F%E6%B4%BB%E
 <dt>英称</dt>
 <dd>Human-life Information Platforms Institute</dd>
 <dt>通称</dt>
-<dd>Menhera.org (コミュニティ形成の母体となったドメイン名に由来する名称)</dd>
+<dd>Menhera®/Menhera.org (コミュニティ形成の母体となったドメイン名に由来する名称)</dd>
 <dt>類型</dt>
 <dd>日本法人 (Incorporated in Japan)</dd>
 <dt>法人種別</dt>
