@@ -1,6 +1,6 @@
 ---
-title: 法人トップ
-description: Menhera®（一般社団法人生活情報基盤研究機構）は，情報技術と情報基盤の研究開発によって個人の自由と力をひろげるための非営利・非政府組織です。同名のネットスラングとは関係ありません。誰でも参加できます。
+title: Menhera® 法人トップ
+description: Menhera®（一般社団法人生活情報基盤研究機構）は，情報技術と情報基盤の研究開発によって個人の自由と力をひろげる非営利・非政府組織です。誰でも参加できます。
 lang: ja
 eye_catch_image: /assets/img/288dpi-integrated.png
 ---
