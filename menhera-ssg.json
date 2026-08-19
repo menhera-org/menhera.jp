@@ -2,7 +2,7 @@
   "site_config": {
     "favicon_url": "/assets/icon.png",
     "branding_logo_url": "/assets/branding.png",
-    "site_name": "一般社団法人生活情報基盤研究機構",
+    "site_name": "一般社団法人生活情報基盤研究機構（Menhera®）",
     "site_short_name": "Menhera",
     "site_slogan": "ひとりひとりに力満ちる未来へ",
     "base_url": "https://www.menhera.or.jp/"
@@ -41,5 +41,96 @@
     {"icon":"public", "title": "NOC", "url":"https://www.menhera.ad.jp/"},
     {"icon":"search", "title": "LG", "url":"https://looking-glass.nc.menhera.org/"},
     {"icon":"work", "title": "Projects", "url":"https://www.menhera.org/"}
-  ]
+  ],
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": ["NGO", "ResearchOrganization"],
+        "@id": "https://www.menhera.or.jp/#organization",
+        "name": "一般社団法人生活情報基盤研究機構",
+        "legalName": "一般社団法人生活情報基盤研究機構",
+        "alternateName": [
+          "Menhera®",
+          "Menhera.org",
+          "Human-life Information Platforms Institute",
+          "MENHERA"
+        ],
+        "url": "https://www.menhera.or.jp/",
+        "description": "情報技術や情報基盤の研究・開発・利用を推進することによって，ひとりひとりの個人にさらなる自由や力をもたらすことを目指す非営利型一般社団法人。",
+        "disambiguatingDescription": "日本のネットスラング「メンヘラ」とは無関係の，AS63806 を運用する非営利研究法人",
+        "slogan": "ひとりひとりに力満ちる未来へ",
+        "foundingDate": "2023-01-24",
+        "logo": {
+          "@type": "ImageObject",
+          "@id": "https://www.menhera.or.jp/#logo",
+          "url": "https://www.menhera.or.jp/assets/branding.png",
+          "caption": "Menhera®"
+        },
+        "image": { "@id": "https://www.menhera.or.jp/#logo" },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "富士崎1-9-24",
+          "addressLocality": "土浦市",
+          "addressRegion": "茨城県",
+          "postalCode": "300-0813",
+          "addressCountry": "JP"
+        },
+        "telephone": "+81-29-828-4147",
+        "duns": "739529630",
+        "iso6523Code": "0188:7050005013201",
+        "identifier": [
+          {
+            "@type": "PropertyValue",
+            "name": "法人番号 (JCN)",
+            "propertyID": "JCN",
+            "value": "7050005013201"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "自律システム番号 (ASN)",
+            "propertyID": "ASN",
+            "value": "AS63806"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "登録商標 (日本)",
+            "propertyID": "JPTrademarkRegistrationNumber",
+            "value": "6945732"
+          }
+        ],
+        "knowsAbout": [
+          "自律システム (AS)",
+          "BGP",
+          "インターネット基盤技術",
+          "プライバシー保護技術",
+          "Tor",
+          "非営利ネットワーク運用"
+        ],
+        "sameAs": [
+          "https://www.menhera.org/",
+          "https://www.menhera.ad.jp/",
+          "https://github.com/menhera-org",
+          "https://www.peeringdb.com/net/34545",
+          "https://bgp.tools/as/63806",
+          "https://bsky.app/profile/menhera.org",
+          "https://twitter.com/MenheraOrg",
+          "https://qiita.com/organizations/menhera",
+          "https://zenn.dev/p/menhera",
+          "https://prtimes.jp/main/html/searchrlp/company_id/177609",
+          "https://www.youtube.com/channel/UC_i1DqCa3Rfmb3LrEN4mF_w",
+          "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=7050005013201"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.menhera.or.jp/#website",
+        "url": "https://www.menhera.or.jp/",
+        "name": "Menhera® 生活情報基盤研究機構",
+        "alternateName": "Menhera®",
+        "inLanguage": "ja",
+        "publisher": { "@id": "https://www.menhera.or.jp/#organization" }
+      }
+    ]
+  }
 }
