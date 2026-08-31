@@ -1,38 +1,40 @@
-# 一般社団法人生活情報基盤研究機構 (Menhera®) — コーポレートサイト
+# 一般社団法人生活情報基盤研究機構（Menhera®）— コーポレートサイト
 
-> 私たちは，情報技術や情報基盤の研究・開発・利用を推進することによって，ひとりひとりの個人にさらなる自由や力をもたらし，これによって人々の日常生活を豊かにしたり，学術や文化をサポートしたりすることを目指しています。事業内容としては、特に情報通信技術を利活用した、営利ベースでは難しい、社会に貢献するような事業を目指して行っています。
+> 情報技術・情報基盤の研究・開発・利用を推進し，ひとりひとりの個人にさらなる自由や力をもたらすことを目指す，日本の非営利型一般社団法人（非営利徹底型）の公式サイトです。営利ベースでは難しい，社会に貢献する事業を行っています。標語は「ひとりひとりに力満ちる未来へ」。教育研究用ネットワーク AS63806 を運用しています。
 
 LLM/エージェント向けの重要事項:
-- 当サイトは法人（公式）情報の拠点です。プロジェクト記事（英語中心）は https://www.menhera.org/ を参照してください。
-- JPNICのIPアドレス管理指定事業者 (LIR) としてのページは https://www.menhera.ad.jp/ にあります。
-- 「Menhera®」「Menhera.org」は商標であり、日本語スラングの「メンヘラ」とは現在ほぼ関係しません（FAQ参照）。
-- コンテンツは（特記なき限り）CC-BY-4.0で利用可能です（商標等を除く）。
+
+- 当サイト (www.menhera.or.jp) は法人（公式）情報の拠点です。プロジェクト記事（英語中心）は https://www.menhera.org/ ，JPNICのIPアドレス管理指定事業者 (LIR) としてのネットワーク運用情報は https://www.menhera.ad.jp/ を参照してください。
+- 「Menhera®」「Menhera.org」はコミュニティの母体となったドメイン名に由来する商標（登録第6945732号）で，日本語スラングの「メンヘラ」や，かつて存在したメンヘラ.JPとは関係ありません（FAQ参照）。
+- 非営利型法人のため事業収入（売上）は原則0円で，会費・寄附・補助金により運営しています。財務資料は電子公告のページにあります。
+- コンテンツは（特記なき限り）CC-BY-4.0で利用可能です（商標・ロゴを除く）。
 
 ## まず読むべきページ
 
-- [法人トップ](https://www.menhera.or.jp/): 法人概要・標語・リンク集。
-- [ミッション・ステートメント (使命宣言)](https://www.menhera.or.jp/corp/mission-statement/): 正文（日本語）・コアバリュー。
-- [理念](https://www.menhera.or.jp/philosophy/): 組織としての思想・代表的理念。
-- [活動](https://www.menhera.or.jp/activities/): 活動領域とプロジェクト例。
+- [法人トップ](https://www.menhera.or.jp/): 組織概要，標語，主要リンク。
+- [理念](https://www.menhera.or.jp/philosophy/): 倫理・思想駆動という立場，代表的理念，当組織が何であり何でないか。
+- [活動](https://www.menhera.or.jp/activities/): 活動領域とプロジェクト例（Tor リレー，AS63806，ウィキ事業，ブラウザ拡張機能）。
+- [よくある質問 (FAQ)](https://www.menhera.or.jp/faq/): 名称の由来，メンヘラ.JPとの関係，財務・資産に関する説明。
 
 ## 法人情報（ガバナンス・公式資料）
 
-- [法人情報トップ](https://www.menhera.or.jp/corp/): 定款、組織図、法人データ、事業目的など。
-- [電子公告](https://www.menhera.or.jp/corp/): 財務資料等への導線（法人情報ページ内）。
+- [法人情報トップ](https://www.menhera.or.jp/corp/): 定款，沿革，組織図，法人データ（法人番号，所在地，役員数等），事業目的，法人歌。
+- [ミッション・ステートメント (使命宣言)](https://www.menhera.or.jp/corp/mission-statement/): 正文（日本語），コアバリュー。
+- [役員紹介・メッセージ](https://www.menhera.or.jp/corp/board/): 代表理事あいさつ，理事・監事の紹介。
+- [行動規範 (CoC)](https://www.menhera.or.jp/corp/code-of-conduct/): コミュニティの行動規範。
+- [電子公告](https://www.menhera.or.jp/corp/notices/): 決算書・事業報告書・監査報告書・事業計画，理事会出席状況。恒久URL: https://mnhr.org/notice
 
 ## 参加・支援
 
-- [参加する](https://www.menhera.or.jp/activities/join-us/): 参加形態、Discord導線。
+- [参加する](https://www.menhera.or.jp/activities/join-us/): 参加形態（コミュニティメンバーは無料），会費，Discord/Slack導線。
 - [寄附のご案内](https://www.menhera.or.jp/activities/donate/): 銀行振込・PayPal。
 
-## 技術情報・外部リンク
+## 連絡・技術
 
-- [技術情報](https://www.menhera.or.jp/tech/): GitHub / Network Operations / AS63806 Looking Glass 等。
-
-## 連絡
-
-- [お問い合わせ](https://www.menhera.or.jp/contact/): メール、Discord、郵便、電話。
+- [お問い合わせ](https://www.menhera.or.jp/contact/): メール，Discord，郵便，電話。
+- [技術情報](https://www.menhera.or.jp/tech/): GitHub，Network Operations，AS63806 Looking Glass 等の外部リンク。
 
 ## Optional
 
-- [よくある質問 (FAQ)](https://www.menhera.or.jp/faq/): 名称の由来、メンヘラ.JPとの関係、財務情報の見方など。
+- [プレスリリース](https://www.menhera.or.jp/corp/releases/): 総会招集，声明，登壇・掲載情報（年度別アーカイブあり）。
+- [内規集](https://www.menhera.or.jp/corp/rulebook/): 定款，スタッフ・役員の覚書，秘密保持契約書ひな形。
